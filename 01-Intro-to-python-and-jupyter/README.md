@@ -1,3 +1,5 @@
+[Open Solution in Google Colab](https://colab.research.google.com/github/ghostdart/Artificial-Intelligence-Labs/blob/main/01-Intro-to-python-and-jupyter/sol.ipynb)
+
 ![](media/image1.jpeg)
 
 > Artificial Intelligence CS461 Laboratory Manual
