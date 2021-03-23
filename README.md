@@ -7,5 +7,5 @@
 | [2][lab2] |Intro to numpy and pandas|
 
 
-[lab1]:https://github.com/ghostdart/
-[lab2]:https://github.com/ghostdart/
+[lab1]:https://github.com/ghostdart/Artificial-Intelligence-Labs/tree/main/01-Intro-to-python-and-jupyter
+[lab2]:https://github.com/ghostdart/Artificial-Intelligence-Labs/tree/main/02-Intro-to-numpy-and-pandas
