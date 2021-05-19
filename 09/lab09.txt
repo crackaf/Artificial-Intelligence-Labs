@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=vXotl0NPeUU
+
+https://heartbeat.fritz.ai/8-queen-puzzle-optimization-using-a-genetic-algorithm-in-python-1d9ca769ede8
